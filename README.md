@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## 静态网站展示
 
 MUJI静态网页展示
